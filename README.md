@@ -48,7 +48,7 @@ No link a seguir você encontra o guia no Notion referente aos desafios proposto
 
 - [Desafio Happy 2.0](https://www.notion.so/Vers-o-2-0-do-Happy-c754db7a4d41469e8c2d00fcf75392c4)
 
-## Novas Features Implementadas
+## ☑️ Novas Features Implementadas
 
 As novas features que implementei levando o Happy para o próximo nível, 
 foram as de entrar em contato com o orfanato através do WhatsApp ou E-mail.
@@ -61,3 +61,25 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+
+
+<h2>📱 Minhas redes sociais:</h2>
+
+<p align="center">
+   <a href="https://github.com/thallesyasmim" target="_blank" >
+    <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github"></a>
+    
+      
+  <a href="https://www.facebook.com/thalles.gabriel.1690" target="_blank" >
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook--%23F8952D?style=social&logo=facebook"></a>
+    
+    
+  <a href="mailto:ithallesgabriel1307@gmail.com" target="_blank" >
+    <img alt="Email" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail"></a> 
+  
+  <a href="https://api.whatsapp.com/send?phone=5511970670088" target="_blank" >
+    <img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp--%23F8952D?style=social&logo=whatsapp"></a>
+ </p>
+
+
+<h4>Feito com ❤ por Thalles Gabriel 🔥 </h4>
